@@ -1,7 +1,7 @@
 <template>
   <div>
     <v-list>
-      <v-list-item class="px-2" link href="https://github.com/Augustotwz">
+      <v-list-item class="px-2" link href="https://github.com/Augustotwz" target="_blank">
         <v-list-item-avatar>
           <v-icon>mdi-github</v-icon>
         </v-list-item-avatar>
