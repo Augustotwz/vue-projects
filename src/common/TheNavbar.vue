@@ -19,11 +19,11 @@
         <v-list-item-title>HOME</v-list-item-title>
       </v-list-item>
 
-      <v-list-item link to="/about">
+      <v-list-item link to="/todoList">
         <v-list-item-icon>
           <v-icon>mdi-account-multiple</v-icon>
         </v-list-item-icon>
-        <v-list-item-title>ABOUT</v-list-item-title>
+        <v-list-item-title>TODO LIST</v-list-item-title>
       </v-list-item>
     </v-list>
   </div>
