@@ -11,7 +11,7 @@
       </v-navigation-drawer>
       
       <v-main>
-        <router-view style="border:1px solid red;" />
+        <router-view />
       </v-main>
     </v-app>
   </div>

@@ -21,7 +21,7 @@
 
       <v-list-item link to="/todoList">
         <v-list-item-icon>
-          <v-icon>mdi-account-multiple</v-icon>
+          <v-icon>mdi-clipboard-text</v-icon>
         </v-list-item-icon>
         <v-list-item-title>TODO LIST</v-list-item-title>
       </v-list-item>
